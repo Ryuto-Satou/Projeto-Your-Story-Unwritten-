@@ -1,4 +1,4 @@
-# Your Story, Unwritten (Sua História, Por Escrito)
+# Your Story, Unwritten
 
 ![Your Story, Unwritten](https://img.shields.io/badge/Engine-Unity-000000?style=for-the-badge&logo=unity)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge)
