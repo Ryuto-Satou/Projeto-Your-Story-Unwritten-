@@ -74,8 +74,7 @@ Isso significa:
 
 ## 👥 Equipe
 
-**Desenvolvido por:** Ryuto
-Sim esse é um projeto solitario, por **enquanto**
+**Desenvolvido por:** Calebe
 
 
 ## 📄 Licença
