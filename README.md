@@ -6,11 +6,11 @@
 
 **Cada escolha escreve uma nova página. Cada partida conta uma história que nunca foi contada antes.**
 
-*Your Story, Unwritten* é uma visual novel experimental que quebra a quarta parede do design narrativo. Ao aproveitar o poder de modelos modernos de IA, ele gera diálogos e ramificações da história únicos e dinâmicos em tempo real, garantindo que nenhum dois jogadores terão exatamente a mesma experiência.
+*Your Story, Unwritten* é um jogo de rpg experimental que quebra a quarta parede do design narrativo. Ao aproveitar o poder de modelos modernos de IA, ele gera diálogos e ramificações da história únicos e dinâmicos em tempo real, garantindo que nenhum dois jogadores terão exatamente a mesma experiência.
 
 ## ✨ O Conceito Único
 
-Visual novels tradicionais são pré-escritas. **Esta não é.**
+RPGs tradicionais são pré-escritos. **Este não é.**
 
 A premissa central de *Your Story, Unwritten* é a possibilidade infinita da narrativa. As escolhas que você faz não apenas selecionam uma resposta pré-determinada; elas guiam um contador de histórias de IA que molda as personalidades das personagens, suas reações e a direção do enredo instantaneamente.
 
@@ -26,7 +26,7 @@ Isso significa:
 3.  **Narração por IA:** Com base na sua entrada e no contexto da história em andamento, um sofisticado modelo de linguagem de IA gera o diálogo e o texto de narração dinamicamente.
 4.  **Um Mundo Vivo:** As personagens se lembram de interações passadas. Seus diálogos gerados refletem seu relacionamento em evolução com você e o estado mutável do mundo.
 
-**Gênero:** Visual Novel Experimental, Simulação, Ficção Interativa
+**Gênero:** RPG Experimental, Simulação, Ficção Interativa
 
 ## 🛠️ Arquitetura Técnica
 
@@ -50,7 +50,7 @@ Isso significa:
 
 ## 🎯 Público-Alvo
 
-*   Fãs de visual novels em busca de uma experiência verdadeiramente única e não linear.
+*   Fãs de RPG em busca de uma experiência verdadeiramente única e não linear.
 *   Jogadores curiosos sobre a interseção entre IA e narrativa.
 *   Jogadores que apreciam games com alta rejogabilidade e experiências de "narrativa emergente".
 
