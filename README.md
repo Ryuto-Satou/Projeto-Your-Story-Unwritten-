@@ -1,8 +1,6 @@
 # Your Story, Unwritten
 
-![Your Story, Unwritten](https://img.shields.io/badge/Engine-Unity-000000?style=for-the-badge&logo=unity)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge)
-![IA](https://img.shields.io/badge/Dialogos-Gerados%20por%20IA-blueviolet?style=for-the-badge)
+![Your Story, Unwritten](https://img.shields.io/badge/Engine-GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
 
 **Cada escolha escreve uma nova página. Cada partida conta uma história que nunca foi contada antes.**
 
@@ -30,12 +28,11 @@ Isso significa:
 
 ## 🛠️ Arquitetura Técnica
 
-*   **Engine:** Unity
+*   **Engine:** GAME MAKER
 *   **Componentes Principais:**
     *   **Gerenciador de Contexto Narrativo:** Mantém o estado da história, personagens e mundo para fornecer contexto relevante para a IA.
     *   **Manipulador de API:** Gerencia de forma segura a comunicação entre o jogo e o serviço de IA.
     *   **Sistema de Diálogo:** Um sistema de UI flexível que pode exibir texto e escolhas gerados dinamicamente.
-    *   **Sistema de Memória:** Um banco de dados leve (ex: JSON, SQLite) para rastrear flags de história, relacionamentos entre personagens e eventos passados, garantindo consistência narrativa.
 
 ## 🎨 Arte & Estilo
 
@@ -71,6 +68,12 @@ Isso significa:
 *   Suporte para "fundações de história" criadas pela comunidade (premissas, personagens, arte).
 *   Melhor fine-tuning da IA para narrativas mais específicas de gênero (ex: mistério, romance, horror).
 *   Versão mobile.
+
+---
+
+> 🔔 Aviso Importante: O projeto originalmente começou em Unity, mas foi migrado para GameMaker para facilitar o desenvolvimento.
+
+---
 
 ## 👥 Equipe
 
